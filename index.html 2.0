@@ -4,7 +4,9 @@
  <head>
   <meta charset="UTF-8">
   <title>ÁGUAS MARINHAS</title>
+  
  </head>
+ 
  <body>
 <h1>SOBRE O SITE</h1>
 <p>As belezas do nosso mundo, destacando-se entre o céu e terra: <strong>O MAR</strong>. De acordo com a Administração Oceânica e Atmosférica Nacional (NOAA), dos Estados Unidos, menos de 5% do oceano foi explorado até hoje, assim podemos imaginar os mistérios que existem em suas profundezas já que detém cerca de 97% de toda a água da Terra. Aqui você irá encontrar informações, notícias e muitas curiosidades sobre as aguás de nosso planeta que podem parecer desinteressantes, mas que irei mostrar que essa experiência tornará sua visaõ totalmente contrária.</p>
@@ -17,4 +19,19 @@
  <header>
  <main>Criei esse site com a intenção de levar informações para todos que se interessam pela área de biologia, mas que nunca encontraram um jeito fácil de encontrar informações, curiosidades e novidades para continuarem interessados.</main>
  </header>
-</html>
+      </div>
+   
+      <div class="beneficios">
+          <h3 class="titulo-centralizado">Benefícios</h3>
+          
+          <ul>
+                   <li class="itens">Atendimento aos Clientes</li>
+                   <li class="itens">Espaço diferenciado</li>
+                   <li class="itens">Localização</li>
+                   <li class="itens">Profissionais Qualificados</li>
+          </ul>
+          
+          <img scr="beneficios.jpg" class="imagembeneficios">
+     </div>
+   </body>
+  </html>
